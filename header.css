@@ -1,0 +1,15 @@
+.main-header {
+  height: 100px;
+  background-color: yellow;
+  color: white;
+}
+nav > ul {
+  display: flex;
+  justify-content: space-evenly;
+}
+.items {
+  width: 80px;
+  height: 80px;
+  list-style: none;
+  background-color: lightblue;
+}
